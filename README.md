@@ -583,17 +583,17 @@ different programming languages**
 
 |Id | Name | Place| Travel Reimbursement |Timeline | Deadline | Type | 
 |--|------ |---|---|:------ |:----|:-----| 
-|1 |[PyCon US-Python Conference USA](https://us.pycon.org/2019/) |  USA | NO |  May1 | May9 |-|
-|2 |[ODSC ](https://odsc.com/) |  GLOBAL | NO |  Aug30 | Sep2 |-|
-|3 |[World Business Dialogue](https://www.world-business-dialogue.com/)| GLOBAL | Yes |  Feb18 | Feb22 | - |
-|4 | [Business Today Conference](https://businesstoday.org/conferences/)| New York | Yes| Nov18 | Nov20  | - |
-|5 | [Asia Pacific Week](http://asiapacificweek.anu.edu.au/) | Australia | Partial | June24 | June29 | - |
-|6 | [DotJS](https://www.dotjs.io/) | France | - | Nov9 | Nov9 | - |
-|7 | [PyCon](https://www.pycon.fr/2018/) | France | - | October4 | October7 | - |
-|8 | [React Europe]() | France | - | May | - | - |
-|9 | [Dublin Web Summit](https://websummit.net/ ) | Dublin | No | Nov5 | Nov8 | - |
-|10| [Harvard Project for Asian and International Relations](https://www.hpair.org/)  | Malaysia | Yes | Aug16 | Aug20 | - |
-|11| [Grace Hopper Conference and Fellowship](https://ghc.anitab.org) | USA | YES | Nov14 | Nov16 | - |
+|1 |[PyCon US-Python Conference USA](https://us.pycon.org/2019/) |  USA | NO |  May1 | May9 |Python|
+|2 |[ODSC ](https://odsc.com/) |  GLOBAL | NO |  Aug30 | Sep2 |Artificial Intelligence|
+|3 |[World Business Dialogue](https://www.world-business-dialogue.com/)| GLOBAL | Yes |  Feb18 | Feb22 | Tech Business/Leadership |
+|4 | [Business Today Conference](https://businesstoday.org/conferences/)| New York | Yes| Nov18 | Nov20  | Undergrad Business |
+|5 | [Asia Pacific Week](http://asiapacificweek.anu.edu.au/) | Australia | Partial | June24 | June29 | Interdisciplilnary |
+|6 | [DotJS](https://www.dotjs.io/) | France | - | Nov9 | Nov9 | JS |
+|7 | [PyCon](https://www.pycon.fr/2018/) | France | - | October4 | October7 | Python |
+|8 | [React Europe]() | France | - | May | - | JS |
+|9 | [Dublin Web Summit](https://websummit.net/ ) | Dublin | No | Nov5 | Nov8 | Web |
+|10| [Harvard Project for Asian and International Relations](https://www.hpair.org/)  | Malaysia | Yes | Aug16 | Aug20 | Interdisciplinary |
+|11| [Grace Hopper Conference and Fellowship](https://ghc.anitab.org) | USA | YES | Nov14 | Nov16 | Women in Tech |
 |12| [MIT Global Startup Workshop](http://mitgsw.org/2015/) | USA | - | March26 | March28 | - |
 |13| [Thiel Summit](http://summit.thielfellowship.org/) | USA | - | - | - | - |
 |14| [Stanford E-Bootcamp](http://bases.stanford.edu/e-bootcamp/)  | USA | - | - | - | - |
